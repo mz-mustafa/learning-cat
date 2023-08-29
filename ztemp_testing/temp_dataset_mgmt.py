@@ -1,11 +1,5 @@
-import numpy as np
 import csv
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-
-
-import us_feature_discovery
 
 
 def update_dataset_html(file_name):
